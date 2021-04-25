@@ -1,0 +1,4 @@
+10000 modelling time
+50 reader arrival probability (%)
+70 probability of the book being in the library (%)
+300 number of books
