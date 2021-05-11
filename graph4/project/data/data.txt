@@ -1,0 +1,8 @@
+Ulla,Juan,Dinnie,Pammi,Alaster,Bridie,Amalie
+Ulla,Juan,Dinnie
+Juan,Ulla
+Dinnie,Pammi,Ulla
+Pammi,Dinnie,Alaster
+Alaster,Pammi
+Bridie,Amalie
+Amalie,Bridie
